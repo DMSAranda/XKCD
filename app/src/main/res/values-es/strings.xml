@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="go_list">Ir a Lista!</string>
+    <string name="go_comic">Ir a Comic!</string>
+    <string name="title">Título</string>
+    <string name="date">Fecha</string>
+    <string name="previous">Previo</string>
+    <string name="next">Siguiente</string>
+    <string name="day">Día</string>
+    <string name="month">Mes</string>
+    <string name="year">Año</string>
+</resources>

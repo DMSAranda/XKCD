@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name" translatable="false">Tarea3</string>
+    <string name="go_list">Go List!</string>
+    <string name="go_comic">Go Comic!</string>
+    <string name="id" translatable="false">ID</string>
+    <string name="title">Title</string>
+    <string name="date">Date</string>
+    <string name="previous">Previous</string>
+    <string name="next">Next</string>
+    <string name="day">Day</string>
+    <string name="month">Month</string>
+    <string name="year">Year</string>
+    <string name="todo">TODO</string>
+</resources>
